@@ -20,7 +20,7 @@ Real-time parking spot occupancy detection and security sentinel running on a Ra
 </table>
 
 ![Live UI](assets/screenshot_ui.jpg)
-*Live interface — orange polygon marks the monitored spot (OCCUPIED 2m 34s), green boxes are tracked vehicles, HUD shows FPS · timestamp · occupancy counts*
+*Live interface — red polygon marks the monitored spot (OCCUPIED), green boxes are tracked vehicles, HUD shows FPS · timestamp · occupancy counts*
 
 ---
 
