@@ -1,0 +1,15 @@
+# Logs și date runtime
+traffic_logs/
+*.log
+*.csv
+
+# Config cu coordonate specifice locației
+.traffic_counter.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
