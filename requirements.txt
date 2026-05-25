@@ -1,0 +1,6 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+scipy>=1.11.0
+requests>=2.31.0
+picamera2>=0.3.12
+# hailo_platform — installed via Hailo RPi5 SDK package, not pip

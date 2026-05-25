@@ -1,0 +1,9 @@
+{
+  "cam_w": 1920,
+  "cam_h": 1080,
+  "disp_w": 1280,
+  "disp_h": 720,
+  "telegram_token": "123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ",
+  "telegram_chat_id": "987654321",
+  "parking_spots": []
+}

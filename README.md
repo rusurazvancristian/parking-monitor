@@ -97,8 +97,8 @@ git clone https://github.com/rusurazvancristian/parking-monitor.git
 cd parking-monitor
 
 # (Optional) Configure Telegram
-nano ~/.traffic_counter.json
-# Add: "telegram_token": "...", "telegram_chat_id": "..."
+cp config.example.json ~/.traffic_counter.json
+nano ~/.traffic_counter.json  # fill in telegram_token and telegram_chat_id
 
 # Run
 python3 traffic_counter.py
