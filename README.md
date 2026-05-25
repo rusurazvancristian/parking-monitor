@@ -8,6 +8,17 @@ Real-time parking spot occupancy detection and security sentinel running on a Ra
 ![Python](https://img.shields.io/badge/python-3.11+-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+<table>
+<tr>
+<td><img src="assets/parking_day.jpg" alt="Day view" width="480"/></td>
+<td><img src="assets/parking_night.jpg" alt="Night mode" width="480"/></td>
+</tr>
+<tr>
+<td align="center"><em>Day mode — live camera view</em></td>
+<td align="center"><em>Auto night mode — long exposure + high gain</em></td>
+</tr>
+</table>
+
 ---
 
 ## Features
